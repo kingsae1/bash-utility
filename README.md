@@ -1,2 +1,2 @@
 # bash-utility
-bash shell utility
+A collection of utilities i need in bash shell
