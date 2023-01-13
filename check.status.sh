@@ -7,3 +7,7 @@ ps -eo pid,ppid,cmd,%mem,%cpu --sort=-%mem | head
 
 echo "==========================================================="
 df -h
+<<<<<<< HEAD
+=======
+
+>>>>>>> 595fe2e (update file)
