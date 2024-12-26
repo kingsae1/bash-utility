@@ -13,4 +13,3 @@ eval '$condaCreate'
 eval '$codnaActivate'
 eval 'echo $condaDeactivate > .env'
 eval 'echo $codnaActivate >> .env'
-~                                              
